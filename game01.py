@@ -1,6 +1,6 @@
 # 五子棋游戏  2019.05.09
 import random
-
+###阿发xxxxx
 
 def restart_game_judge(list05):
     """
